@@ -18,10 +18,12 @@ Built with Python and Tkinter to demonstrate full CRUD operations, database inte
 - **Tkinter (GUI)**
 - **MySQL (mysql-connector)**
 
-- ## Setup
+## Setup
 
 ### 1. Create Database
+```sql
 CREATE DATABASE employee;
+```
 
 2. Set Environment Variables
 
@@ -46,15 +48,18 @@ python employee_crud_app.py
 The application will automatically create the required table if it does not exist.
 
 
-Project Purpose
-
+```md
+## Project Purpose
 This project was built to practice:
-
+```
 Database-backed application design
 CRUD workflows
 GUI development with Tkinter
 Efficient database connection handling using pooling
-Future Improvements
+
+```md
+## Future Improvements
+```
 Input validation and form constraints
 Search/filter functionality
 Pagination for large datasets
