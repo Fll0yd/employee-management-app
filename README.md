@@ -18,6 +18,14 @@ Built with Python and Tkinter to demonstrate full CRUD operations, database inte
 - **Tkinter (GUI)**
 - **MySQL (mysql-connector)**
 
+## Architecture
+
+- Tkinter handles the UI layer
+- MySQL stores persistent employee data
+- Connection pool manages efficient database connections
+- CRUD functions act as the service layer between UI and database
+
+
 ## Setup
 
 ### 1. Create Database
