@@ -68,6 +68,8 @@ Authentication and user roles
 
 ## Key Learning
 - Implemented connection pooling to improve database performance and scalability
-  
+
+
 Author
+
 Kenneth Lloyd Boller
