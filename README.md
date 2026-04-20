@@ -50,8 +50,8 @@ The application will automatically create the required table if it does not exis
 
 ```md
 ## Project Purpose
-This project was built to practice:
 ```
+This project was built to practice:
 Database-backed application design
 CRUD workflows
 GUI development with Tkinter
