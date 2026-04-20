@@ -66,7 +66,8 @@ Pagination for large datasets
 Migration to web-based UI (Flask / FastAPI)
 Authentication and user roles
 
-
+## Key Learning
+- Implemented connection pooling to improve database performance and scalability
+  
 Author
-
 Kenneth Lloyd Boller
